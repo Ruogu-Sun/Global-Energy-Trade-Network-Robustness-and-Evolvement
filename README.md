@@ -60,7 +60,3 @@ Node features data is obtained from various authentic database:
 3. Study and visualize degree and higher-order degree characteristics in directory ``network_degree_analysis`` with converted matrix data.
 4. Simulate and visualize network attacking process with various attack strategy and cascading failure in directory ``network_attack``.
 5. Run ERGMs and TERGMs to study network formation mechanism and forecasting in directory ``ERGMs``.
-
-## Submission Detail
-This paper, so far, has been rejected by Energy, Energy Policy, and Energy Research & Social Science.
-This is currently under review in IEEE Transactions on Network Science and Engineering on 2023.11.15
